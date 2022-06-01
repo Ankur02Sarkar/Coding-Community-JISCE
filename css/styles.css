@@ -1,0 +1,149 @@
+.container{
+    display: flex;
+    text-align: center;
+}
+
+.wrapper{
+    text-align: center;
+}
+.wrapper p{
+    margin: 5px 10%;
+}
+.card{
+    background: #f7f7f7;
+    margin: 10px;
+    border-radius: 0 0 17px 17px;
+    transition: all 300ms ease;
+}
+
+.card:hover{
+    /* background: #6fdfdf; */
+    background-image: linear-gradient(to bottom right, #2eaafa, #1f2f98);
+    color: white;
+    cursor: pointer;
+    transform: scale(1.13);
+    z-index: 1;
+    border-color: #f7f7f7;
+}
+
+.btn a{
+    color: #f7f7f7;
+}
+.btn img{
+    width: 30px;
+}
+
+.navbar{
+    margin-left: 10px;
+    z-index: 2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
