@@ -1,6 +1,9 @@
 .container{
-    display: flex;
+    display: grid;
     text-align: center;
+    gap: 1.5rem;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-block: 2rem;
 }
 
 .wrapper{
